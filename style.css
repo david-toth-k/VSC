@@ -1,0 +1,22 @@
+body {
+    font-size: 24px;
+}
+li h2 {
+    font-size: 24px;
+}
+
+.first>a {
+    color: rgb(142, 113, 255);
+}
+
+.second a {
+    color: rgba(192%, 100%, 9%, 60%);
+}
+
+.link {
+    color: rgb(35, 250, 35);
+}
+
+p {
+    color: ff000000;
+}
